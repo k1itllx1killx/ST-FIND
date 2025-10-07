@@ -32,7 +32,7 @@ to see if your name is **available or already taken** 👤
 ### 🧩 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/st-find.git
+git clone https://github.com/k1itllx1killx
 cd st-find
 ```
 💽 Step 2: Run setup wizard
