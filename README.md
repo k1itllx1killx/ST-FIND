@@ -39,7 +39,7 @@ cd ST-FIND
 
 This installs all dependencies (lolcat, requests, termcolor, etc.)
 ```
-python setup.py
+python3 setup.py
 ```
 > 👀 Hit Y when asked — it’ll auto install 15+ required packages with pip/pkg!
 
@@ -50,7 +50,7 @@ python setup.py
 
 🔥 Step 3: Start the scanner
 ```
-python st-find.py
+python3 st-find.py
 ```
 ✨ Step 4: Enter your username
 
