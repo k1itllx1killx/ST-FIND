@@ -55,9 +55,9 @@ python st-find.py
 ✨ Step 4: Enter your username
 
 Example:
-
-Enter the username to check (no @): satane
-
+```
+Enter the username to check (no @): .satanae
+```
 Then it’ll automatically scan TikTok, Instagram, YouTube, Steam, Twitch, Discord, and more ⚡
 and show you whether the username is taken ❌ or available ✅.
 
@@ -66,10 +66,10 @@ and show you whether the username is taken ❌ or available ✅.
 
 💡 Example Output
 
-[21:30:44] [INFO] [=] Starting scan for "satane" across 100 networks...
-[21:30:45] [INFO] [+] Name available "satane (GitHub)"
-[21:30:46] [INFO] [-] Name taken "satane (Instagram)"
-[21:30:47] [INFO] [+] Name available "satane (Steam)"
+[21:30:44] [INFO] [=] Starting scan for "satanae" across 100 networks...
+[21:30:45] [INFO] [+] Name available "satanae (GitHub)"
+[21:30:46] [INFO] [-] Name taken "satanae (Instagram)"
+[21:30:47] [INFO] [+] Name available "satanae (Steam)"
 [21:30:48] [INFO] Checks finished.
 
 
