@@ -161,7 +161,3 @@ Just give proper credit 🔥
 
 
 ---
-
-✅ **Copy & paste this entire block** into a file named `README.md`  
-✅ Looks perfect on GitHub — colorful, clean, and super modern  
-✅ You can replace `yourusername` in the clone link with your actual GitHub username  
